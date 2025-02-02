@@ -1,0 +1,70 @@
+22:14:10.901 [TestNG-tests-2] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:14:10.926 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:14:11.168 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:14:11.380 [TestNG-tests-2] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:14:11.593 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:14:12.303 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+22:14:12.306 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+22:15:17.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:15:42.122 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:15:42.123 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:15:42.419 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:15:42.643 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:17:53.284 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:17:59.105 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:18:01.251 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:18:46.906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:18:58.414 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:18:58.415 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:18:58.415 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:19:48.594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:19:50.988 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:19:52.621 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+22:19:57.640 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:19:58.904 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+22:20:05.110 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:20:06.535 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+22:24:36.060 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:24:39.709 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:24:40.950 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:24:42.932 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:24:44.369 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+22:37:30.329 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:37:34.248 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+22:37:37.642 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+13:03:00.693 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\master.xml
+
+13:03:06.764 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+13:03:08.428 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+13:03:08.453 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+13:03:19.511 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+13:03:19.514 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+13:03:21.514 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+13:03:32.667 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+13:03:32.682 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+13:03:34.401 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+17:58:56.308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\master.xml
+
+18:02:29.655 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\master.xml
+
+18:04:47.088 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\master.xml
+
+18:04:52.515 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:04:54.105 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:04:54.130 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****

@@ -1,0 +1,64 @@
+18:05:05.470 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:05:05.485 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:05:07.184 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:05:18.183 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:05:18.183 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:05:19.764 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:15:47.166 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\master.xml
+
+18:31:28.944 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\master.xml
+
+18:31:38.658 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:31:40.618 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:31:40.630 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:31:51.725 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:31:51.740 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:31:53.498 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:32:04.551 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:32:04.551 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:32:06.210 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:26.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+18:37:29.909 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:31.549 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:31.571 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:42.638 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:42.640 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:44.491 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:55.553 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:55.555 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:37:57.204 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:01.365 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:03.243 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:03.245 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:14.423 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:14.425 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:16.308 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:27.531 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:27.531 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:38:29.301 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:17.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+18:42:20.660 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:22.451 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:22.463 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:33.642 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:33.646 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:35.466 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:46.531 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:46.532 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:48.188 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:50.941 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:52.702 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:42:52.705 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:43:03.706 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:43:03.708 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:43:05.448 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:43:16.461 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:43:16.463 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+18:43:18.341 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+08:06:01.517 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****

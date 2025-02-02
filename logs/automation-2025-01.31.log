@@ -1,0 +1,53 @@
+22:02:35.826 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:02:36.440 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+22:02:36.440 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+22:02:37.550 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+22:02:37.570 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+22:07:53.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:07:56.045 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:07:56.569 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:07:57.066 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+22:07:57.069 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+22:07:58.216 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+22:07:58.273 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+22:08:02.700 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:08:02.853 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:08:03.301 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+22:08:03.303 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+22:08:04.348 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+22:08:04.417 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+22:08:10.196 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:08:10.450 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:08:11.007 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+22:08:11.007 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+22:08:12.158 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+22:08:12.182 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+22:10:58.561 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:11:02.227 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:11:02.971 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:11:03.783 [TestNG-tests-2] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:11:04.041 [TestNG-tests-2] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:11:04.380 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+22:11:04.384 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+22:11:04.741 [TestNG-tests-2] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+22:11:04.746 [TestNG-tests-2] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+22:11:06.312 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+22:11:06.411 [TestNG-tests-2] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+22:11:06.632 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+22:11:06.945 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+22:11:07.515 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+22:11:07.517 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+22:11:08.880 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+22:11:08.946 [TestNG-tests-3] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+22:11:16.475 [TestNG-tests-1] ERROR testCases.TC001_AccoutRegistrationPage - TestFailed..
+22:11:16.475 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+22:11:26.472 [TestNG-tests-2] ERROR testCases.TC001_AccoutRegistrationPage - TestFailed..
+22:11:26.472 [TestNG-tests-2] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+22:14:02.923 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\crossbrowsertesting.xml
+
+22:14:08.442 [TestNG-tests-1] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
