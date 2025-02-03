@@ -4,7 +4,7 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="chromeTest(failed)">
+  <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="linux"/>
     <parameter name="browser" value="chrome"/>
     <classes>
@@ -16,31 +16,5 @@
         </methods>
       </class> <!-- testCases.TC003_LoginDDT -->
     </classes>
-  </test> <!-- chromeTest(failed) -->
-  <test thread-count="5" name="EdgeTest(failed)">
-    <parameter name="os" value="linux"/>
-    <parameter name="browser" value="edge"/>
-    <classes>
-      <class name="testCases.TC003_LoginDDT">
-        <methods>
-          <include name="verify_loginDDT" invocation-numbers="2"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC003_LoginDDT -->
-    </classes>
-  </test> <!-- EdgeTest(failed) -->
-  <test thread-count="5" name="FirefoxTest(failed)">
-    <parameter name="os" value="linux"/>
-    <parameter name="browser" value="firefox"/>
-    <classes>
-      <class name="testCases.TC003_LoginDDT">
-        <methods>
-          <include name="verify_loginDDT"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC003_LoginDDT -->
-    </classes>
-  </test> <!-- FirefoxTest(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
