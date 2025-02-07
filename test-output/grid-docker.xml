@@ -6,43 +6,49 @@
 		<listener class-name="utilities.ExtentReportManager"></listener>
   </listeners>
 	
-  <test thread-count="5" name="chromeTest">
+  
+  
+  
+  <test thread-count="5" name="Chrome Test">
 	
 	<parameter name="os" value="linux"></parameter>
 	<parameter name="browser" value="chrome"></parameter>
 	
     <classes>
-    <!-- <class name="testCases.TC001_AccoutRegistrationPage"/>-->
-    <!--  <class name="testCases.TC002_LoginTest"/>  -->
-      <class name="testCases.TC003_LoginDDT"/> 
+   <class name="testCases.TC001_AccoutRegistrationPage"/>
+     <class name="testCases.TC002_LoginTest"/>  
+       <!-- <class name="testCases.TC003_LoginDDT"/> -->
     </classes>
   </test> <!-- Test -->
   
   
-   <test thread-count="5" name="EdgeTest">
+  <test thread-count="5" name="Edge Test">
 	
 	<parameter name="os" value="linux"></parameter>
 	<parameter name="browser" value="edge"></parameter>
 	
     <classes>
-    <!-- <class name="testCases.TC001_AccoutRegistrationPage"/>-->
-    <!--  <class name="testCases.TC002_LoginTest"/>  -->
-      <class name="testCases.TC003_LoginDDT"/> 
+   <class name="testCases.TC001_AccoutRegistrationPage"/>
+     <class name="testCases.TC002_LoginTest"/>  
+       <!-- <class name="testCases.TC003_LoginDDT"/> -->
     </classes>
   </test> <!-- Test -->
   
   
-   <test thread-count="5" name="FirefoxTest">
+  
+  <test thread-count="5" name="Firefox Test">
 	
 	<parameter name="os" value="linux"></parameter>
 	<parameter name="browser" value="firefox"></parameter>
 	
     <classes>
-    <!-- <class name="testCases.TC001_AccoutRegistrationPage"/>-->
-    <!--  <class name="testCases.TC002_LoginTest"/>  -->
-      <class name="testCases.TC003_LoginDDT"/> 
+   <class name="testCases.TC001_AccoutRegistrationPage"/>
+     <class name="testCases.TC002_LoginTest"/>  
+       <!-- <class name="testCases.TC003_LoginDDT"/> -->
     </classes>
   </test> <!-- Test -->
+  
+  
   
   
 </suite> <!-- Suite -->

@@ -1,6 +1,54 @@
-15:53:26.195 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
-15:53:26.211 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
-15:53:27.728 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
-15:53:38.749 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
-15:53:38.749 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
-15:53:40.293 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:36:38.582 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+19:36:38.626 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+19:36:40.184 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+19:36:41.642 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+19:43:56.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:50:49.625 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:50:55.896 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+19:50:56.163 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+19:50:56.738 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+19:50:56.739 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+19:50:57.891 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+19:50:57.920 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+19:51:02.992 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+19:51:04.336 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+19:52:27.215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:52:32.458 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+19:52:32.735 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+19:52:33.238 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+19:52:33.238 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+19:52:34.313 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+19:52:34.332 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+19:52:39.093 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+19:52:40.269 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+19:53:51.365 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+20:39:40.570 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+20:39:45.891 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+20:39:46.109 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+20:39:46.974 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+20:39:46.977 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+20:39:48.461 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+20:39:48.556 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+20:39:51.854 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+20:39:53.618 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+20:39:59.608 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+20:39:59.844 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+20:40:01.865 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+20:40:01.866 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+20:40:04.730 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+20:40:04.793 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+20:40:08.979 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+20:40:11.803 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+11:20:39.769 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\testng-failed.xml
+

@@ -94,6 +94,8 @@ public class BaseClass {
 	public void tearDown() {
 		driver.quit();
 	}
+	
+	
 	//methods to be used
 	public String randomString(){
 		String generatedString = RandomStringUtils.randomAlphabetic(5); //randomAlphaNumeric() is a method under commons.lang3

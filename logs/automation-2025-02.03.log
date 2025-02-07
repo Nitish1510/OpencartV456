@@ -1,0 +1,63 @@
+19:06:34.993 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:06:35.005 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:07:56.748 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:07:59.566 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:08:01.257 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:08:01.268 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:08:06.696 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:08:06.698 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:09:23.359 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:09:26.334 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:09:28.222 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:09:28.235 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:09:33.878 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:09:33.881 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:16:23.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:16:27.768 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:16:29.478 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:16:29.492 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:16:34.906 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:16:34.909 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT *****
+19:27:53.927 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:27:57.157 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+19:27:57.304 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+19:27:57.799 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+19:27:57.801 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+19:27:59.095 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+19:27:59.157 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+19:28:00.784 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+19:28:02.139 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+19:28:04.631 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+19:28:04.792 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+19:28:05.257 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+19:28:05.258 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+19:28:06.512 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+19:28:06.549 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+19:28:08.009 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+19:28:09.277 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+19:29:49.876 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:29:52.610 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+19:29:52.736 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+19:29:53.219 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+19:29:53.221 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
+19:29:54.661 [main] INFO  testCases.TC001_AccoutRegistrationPage - Validating expected message 
+19:29:54.703 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Finished TC001_AccoutRegistrationPage **** 
+19:29:56.658 [main] INFO  testCases.TC002_LoginTest - *****Starting  TC002_LoginTest*****
+19:29:58.509 [main] INFO  testCases.TC002_LoginTest - *****Finished  TC002_LoginTest*****
+19:36:34.174 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Project1\test-output\grid-docker.xml
+
+19:36:36.436 [main] INFO  testCases.TC001_AccoutRegistrationPage - ****Starting TC001_AccoutRegistrationPage **** 
+19:36:36.562 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on MyAccount Link..
+19:36:37.352 [main] INFO  testCases.TC001_AccoutRegistrationPage - Clicked on Register Link..
+19:36:37.355 [main] INFO  testCases.TC001_AccoutRegistrationPage - Providing customer details..
